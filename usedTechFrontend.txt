@@ -1,0 +1,8 @@
+REACT JS
+HTML
+CSS
+TAILWIND CSS + VITE
+DAISY UI(COMPONENTS)
+JQUERY
+EMAIL JS (for receiving email from contact us)
+react0

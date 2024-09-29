@@ -1,0 +1,68 @@
+.registration-form {
+  max-width: 100vh;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #262626;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.error {
+  color: red;
+  font-size: 0.875em;
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+.submit-button {
+  background-color: #1d4ed8; /* Tailwind blue-500 */
+}
+
+.submit-button:hover {
+  background-color: #ea580c; /* Tailwind orange-700 */
+}
+
+.float-right {
+  float: right;
+}
+

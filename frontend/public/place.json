@@ -1,0 +1,72 @@
+[
+    {
+
+        "place_id":1,
+        "place_name":"Kashmir",
+        "place_image":"bg3.jpeg"
+
+    },
+    {
+
+        "place_id":2,
+        "place_name":"Shimla - Manali",
+        "place_image":"car.jpg"
+
+    },
+    {
+
+        "place_id":3,
+        "place_name":"",
+        "place_image":"car.jpg"
+
+    },
+    {
+
+        "place_id":4,
+        "place_name":"Kerla",
+        "place_image":"car.jpg"
+
+    },
+    {
+
+        "place_id":5,
+        "place_name":"Indian beach",
+        "place_image":"car.jpg"
+
+    },
+    {
+
+        "place_id":6,
+        "place_name":"Kedarnath",
+        "place_image":"car.jpg"
+
+    },
+    {
+
+        "place_id":7,
+        "place_name":"Amarnath",
+        "place_image":"car.jpg"
+
+    },
+    {
+
+        "place_id":8,
+        "place_name":"Badrinath",
+        "place_image":"car.jpg"
+
+    },
+    {
+
+        "place_id":9,
+        "place_name":"Goa",
+        "place_image":"car.jpg"
+
+    },
+    {
+
+        "place_id":10,
+        "place_name":"Laksgdeep",
+        "place_image":"car.jpg"
+
+    }
+]

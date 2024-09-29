@@ -1,0 +1,123 @@
+
+
+[
+    {
+
+        "p_id": 1 ,
+        "p_name" : "Char dham ni yatra",
+        "p_title": " lorem20okok okookoko kooo ok okoko ",
+        "p_place" : "Kashmir",
+        "p_price" : "14,999",
+        "p_image" : "car.jpg",
+        "p_type" : "normaldeal"
+
+    },
+
+    {
+
+        "p_id": 2 ,
+        "p_name" : "kedarnath",
+        "p_title": " lorem20okok okookoko kooo ok okoko ",
+        "p_place" : "Kashmir",
+        "p_price" : "19,999",
+        "p_image" : "car.jpg",
+        "p_type" : "bestdeal"
+   
+
+
+    },
+
+    {
+
+        "p_id": 3 ,
+        "p_name" : "badrinath",
+        "p_title": " lorem20okok okookoko kooo ok okoko ",
+        "p_place" : "Kashmir",
+        "p_price" : "14,999",
+        "p_image" : "car.jpg",
+        "p_type" : "bestdeal"
+   
+
+
+    },
+
+    {
+
+        "p_id": 4 ,
+        "p_name" : "12 jotiling",
+        "p_title": " lorem20okok okookoko kooo ok okoko ",
+        "p_place" : "valsad",
+        "p_price" : "49,999",
+        "p_image" : "bg3.jpeg",
+        "p_type" : "normaldeal"  
+
+
+    },
+
+
+    {
+
+        "p_id": 6 ,
+        "p_name" : "andmar nikobar",
+        "p_title": " lorem20okok okookoko kooo ok okoko ",
+        "p_place" : "indian beach",
+        "p_price" : "59,999",
+        "p_image" : "car.jpg",
+        "p_type" : "normaldeal"   
+
+
+    },
+    {
+
+        "p_id": 7 ,
+        "p_name" : "A",
+        "p_title": " lorem20okok okookoko kooo ok okoko ",
+        "p_place" : "shimla",
+        "p_price" : "15,999",
+        "p_image" : "car.jpg",
+        "p_type" : "bestdeal"
+   
+
+
+    },
+    {
+
+        "p_id": 8 ,
+        "p_name" : "B",
+        "p_title": " lorem20okok okookoko kooo ok okoko ",
+        "p_place" : "shimla",
+        "p_price" : "15,999",
+        "p_image" : "car.jpg",
+        "p_type" : "normaldeal"   
+
+
+    },
+    {
+
+        "p_id": 9 ,
+        "p_name" : "C",
+        "p_title": " lorem20okok okookoko kooo ok okoko ",
+        "p_place" : "shimla",
+        "p_price" : "15,999",
+        "p_image" : "car.jpg",
+        "p_type" : "normaldeal"   
+
+
+    },
+    {
+
+        "p_id": 10 ,
+        "p_name" : "D",
+        "p_title": " lorem20okok okookoko kooo ok okoko ",
+        "p_place" : "shimla",
+        "p_price" : "15,999",
+        "p_image" : "car.jpg",
+        "p_type" : "normaldeal"   
+
+
+    }
+
+
+
+
+]

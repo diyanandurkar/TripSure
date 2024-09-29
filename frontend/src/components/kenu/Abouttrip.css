@@ -1,0 +1,59 @@
+.para-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .section {
+    margin-bottom: 40px;
+  }
+  
+  .section h2 {
+    margin-top: 0;
+    font-weight: bold;
+    font-size: 24px;
+    color: #edc30a;
+  }
+  
+  .questions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .left-question, .right-question {
+    width: 45%;
+    background-color: #20e8e8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .left-question p, .right-question p {
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #232222;
+  }
+  
+
+  .book-help:hover {
+    background-color: #a46f43;
+  }
+  .booking-help-container {
+    margin-top: 20px; /* adjust the value as needed */
+  }
+  
+  .questions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .left-question, .right-question {
+    width: 45%;
+    margin: 20px;
+  }
+  
+ 
